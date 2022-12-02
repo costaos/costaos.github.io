@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://https://costaos.github.io</id>
+    <title>58在线</title>
+    <updated>2022-12-02T13:08:09.895Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://https://costaos.github.io"/>
+    <link rel="self" href="https://https://costaos.github.io/atom.xml"/>
+    <subtitle>58在线是东华初级中学生态园校区圆梦158班官方网址</subtitle>
+    <logo>https://https://costaos.github.io/images/avatar.png</logo>
+    <icon>https://https://costaos.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 58在线</rights>
+    <entry>
+        <title type="html"><![CDATA[58在线：东华初级中学]]></title>
+        <id>https://https://costaos.github.io/post/dhcz/</id>
+        <link href="https://https://costaos.github.io/post/dhcz/">
+        </link>
+        <updated>2022-12-02T12:12:42.000Z</updated>
+        <content type="html"><![CDATA[<p>s</p>
+]]></content>
+    </entry>
+</feed>
