@@ -2,21 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://costaos.github.io</id>
     <title>58在线</title>
-    <updated>2022-12-02T13:11:07.516Z</updated>
+    <updated>2022-12-02T13:20:08.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://costaos.github.io"/>
     <link rel="self" href="https://costaos.github.io/atom.xml"/>
-    <subtitle>58在线是东华初级中学生态园校区圆梦158班官方网址</subtitle>
+    <subtitle>58在线是东华初级中学生态园-圆梦158班官方网址</subtitle>
     <logo>https://costaos.github.io/images/avatar.png</logo>
     <icon>https://costaos.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 58在线</rights>
     <entry>
-        <title type="html"><![CDATA[58在线：东华初级中学]]></title>
+        <title type="html"><![CDATA[11.23 生日的惊喜]]></title>
         <id>https://costaos.github.io/post/dhcz/</id>
         <link href="https://costaos.github.io/post/dhcz/">
         </link>
-        <updated>2022-12-02T12:12:42.000Z</updated>
-        <content type="html"><![CDATA[<p>s</p>
+        <updated>2022-11-23T13:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>曾老师的生日是农历的11月23日，可是我们班的同学们搞错了。。。。。。<br>
+<img src="https://costaos.github.io/post-images/1669987093344.jpg" alt="" loading="lazy"><br>
+还送了个“可爱”的小蛋糕</p>
+<p>班级大合照（其实当时虎门疫情的同学不在现场）👇👇👇<br>
+<img src="https://costaos.github.io/post-images/1669987151804.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
